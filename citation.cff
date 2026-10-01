@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+title: "Detection Techniques Utilizing Machine Learning, Deep Learning, and Anomaly-Based Approaches"
+authors:
+  - family-names: "Solan"
+    given-names: "Rohin"
+    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"
+
+  - family-names: "Doe"
+    given-names: "Abhinav"
+    affiliation: "AI Modernization Research Group"
+
+  - family-names: "Martinez"
+    given-names: "Lena"
+    affiliation: "Enterprise ML Systems"
+
+  - family-names: "Smith"
+    given-names: "Jackline"
+    affiliation: "Applied AI Research"
+
+version: "1.0.0"
+date-released: "2026-09-30"
+doi: ""
+url: "https://github.com/rohinjh/Detection_MachineLearning_DL_Anomaly"
+abstract: >
+  This repository contains a complete research project exploring modern detection
+  techniques across Machine Learning (ML), Deep Learning (DL), and Anomaly-Based
+  systems. It includes a full LaTeX research paper, diagrams, mathematical
+  formulations, and hybrid detection code examples designed for enterprise-scale
+  monitoring, fraud detection, cybersecurity, and LLMOps/MLOps reliability.
+keywords:
+  - machine learning
+  - deep learning
+  - anomaly detection
+  - hybrid detection
+  - enterprise AI
+  - LLMOps
+  - MLOps
+  - fraud analytics
+  - cybersecurity
+  - predictive maintenance
+license: "MIT"
